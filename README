@@ -1,0 +1,6 @@
+Author: Chao Zhang
+Time  : 21:00 11/19/2012
+
+How to run:
+1. type the command: make virtualmem
+2. run: ./virtualmem -option
